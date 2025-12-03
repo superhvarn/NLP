@@ -4,3 +4,6 @@ bart_tokenized/
 t5_checkpoints/
 t5_model/
 bart_base_mimic_checkpoints/
+train_clean.csv
+val_clean.csv
+test_clean.csv
